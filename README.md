@@ -67,6 +67,8 @@ To improve interpretability and enhance presentation, the notebook includes:
 
 These additions make the notebook more insightful and help communicate the results effectively.
 
+![Image](https://github.com/user-attachments/assets/de02f957-f952-4beb-9d42-ec67711a06fb)
+
 ---
 
 ## ✅ Results
@@ -81,8 +83,6 @@ The LP solver provided the following optimal solution:
 This configuration utilizes the warehouse space efficiently and satisfies all constraints while yielding the **highest possible profit**.
 
 ---
-
-![Image](https://github.com/user-attachments/assets/de02f957-f952-4beb-9d42-ec67711a06fb)
 
 ## 🧠 Business Insights
 
